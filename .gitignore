@@ -28,7 +28,8 @@ wheels/
 *.sqlite
 *.sqlite3
 
-# Visualizations
+# Visualizations / outputs
+outputs/
 visualizations/
 *.png
 *.jpg
